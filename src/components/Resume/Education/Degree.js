@@ -4,8 +4,8 @@ import PropTypes from 'prop-types';
 const Degree = ({ data }) => (
   <article className="degree-container">
     <header>
-      <h4 className="degree">{data.degree}</h4>
-      <p className="school"><a href={data.link}>{data.school}</a>, {data.year}</p>
+      <h4 className="degree"><a href={data.link}>{data.school}</a></h4>
+      <p className="school">{data.degree} | CGPA : {data.gpa} | {data.year}  </p>
     </header>
   </article>
 );
@@ -16,6 +16,7 @@ Degree.propTypes = {
     link: PropTypes.string.isRequired,
     school: PropTypes.string.isRequired,
     year: PropTypes.number.isRequired,
+    gpa: PropTypes.string.isRequired,
   }).isRequired,
 };
 
