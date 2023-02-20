@@ -27,8 +27,8 @@ const Resume = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><a href="https://drive.google.com/file/d/1W7mqDYWugiHX5EwEa64Or-MfYpaIDT2g/view">Resume</a></h2>
-          <p><a href="https://drive.google.com/file/d/1W7mqDYWugiHX5EwEa64Or-MfYpaIDT2g/view">Download Resume</a></p>
+          <h2 data-testid="heading"><a href="https://drive.google.com/file/d/14Q5BJUvj_ubqXYYtxRGqNfqbkG2hLiHV/view?usp=sharing">Resume</a></h2>
+          <p><a href="https://drive.google.com/file/d/14Q5BJUvj_ubqXYYtxRGqNfqbkG2hLiHV/view?usp=sharing">Download Resume</a></p>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>

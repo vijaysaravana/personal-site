@@ -37,4 +37,4 @@ On top of giving the opportunity to work on state-of-the-art 5G modem tech with 
 - [Extracurriculars and Volunteering](https://drive.google.com/drive/u/0/folders/1xnNKQw8EsYmn15kvvzPLHWPjMvcPb8p_)
 - [Online Certifications](https://drive.google.com/drive/u/0/folders/13BqJQEwOVxn7eiUWcVCgH-bc-679Jlz_)
 - [Awards](https://drive.google.com/drive/u/0/folders/1Tuhpqrk_k_Y_C2ijWvOE-QUuJ0JoflEw)
-- [Resume](https://drive.google.com/file/d/1a3-I_QnrvGPlHA5C-dKkftwc25CkSI8d/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/14Q5BJUvj_ubqXYYtxRGqNfqbkG2hLiHV/view?usp=sharing)
