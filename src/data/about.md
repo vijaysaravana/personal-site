@@ -2,7 +2,7 @@
 
 I am a graduate student pursuing my Master of Science in Computer Science Degree at the Georgia Institute of Technology specializing in Computing Systems. I will be graduating in May 2023.
 
-# Woven Planet Experience :
+# Woven by Toyota Experience :
 As a big believer in Autonomous Vehicles, the internship at Woven Planet was a blessing in disguise.  I was a software engineering intern at Woven Planet in the ML Frameworks team which provided the platform for model training, distributed data processing, ETL and so on. The company used Spark as distributed processing platform for the ML workloads. This caused problem in debugging as ML engineers do not essentially have systems knowledge. The overhead for spark cluster creation and teardown was high. My [internship project](https://flyte.org/blog/flyte-map-tasks-a-simpler-alternative-to-apache-spark) was about using Flyte Map tasks as an alternative to Spark workloads which made the process lightweight and easy to debug. I worked with multiple diverse teams of extremely talented engineers and learned a ton!
 
 # Freshworks Experience :
