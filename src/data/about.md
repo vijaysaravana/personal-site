@@ -1,9 +1,11 @@
 # Currently
 
-I am a graduate student pursuing my Master of Science in Computer Science Degree at the Georgia Institute of Technology specializing in Computing Systems. I will be graduating in May 2023.
+I am a Software Engineer passionate about Backend, Cloud and Distributed Systems. I hold a Master of Science in Computer Science Degree from Georgia Institute of Technology specializing in Computing Systems.
 
 # Woven by Toyota Experience :
 As a big believer in Autonomous Vehicles, the internship at Woven Planet was a blessing in disguise.  I was a software engineering intern at Woven Planet in the ML Frameworks team which provided the platform for model training, distributed data processing, ETL and so on. The company used Spark as distributed processing platform for the ML workloads. This caused problem in debugging as ML engineers do not essentially have systems knowledge. The overhead for spark cluster creation and teardown was high. My [internship project](https://flyte.org/blog/flyte-map-tasks-a-simpler-alternative-to-apache-spark) was about using Flyte Map tasks as an alternative to Spark workloads which made the process lightweight and easy to debug. I worked with multiple diverse teams of extremely talented engineers and learned a ton!
+<br/><br/>
+I returned as a full time software engineer in 2023. I am currently building a critical web-based virtual vehicle validation platform along with my wonderful team!
 
 # Freshworks Experience :
 At Freshworks, I worked in the Channels Platform team which works predominantly on building a unified reliable omnichannel platform for communication channels such as Whatapp, Apple Business Chat (ABC), Google Business Messages (GBM), and SMS. I was working on novel feature development for channels like Whatsapp, SMS, ABC and GBM which directly impacted thousands of customers! I managed the AWS infrastructure (EKS Setup, ALB, SQS, Kafka) and weekly rollouts for all regions. As much as I enjoyed working in an energetic cross-functional team remotely, I missed the amazing office space of Freshworks. Thanks to COVID!
@@ -22,12 +24,6 @@ On top of giving the opportunity to work on state-of-the-art 5G modem tech with 
 - I was Fundraising Volunteer at Make A Difference [(MAD)](https://makeadiff.in/) in Bangalore where I was involved in Enabling CFR, community outreach for the Bangalore chapter. I facilitated as the Lead SPOLO(Sponsorship and Logistics) volunteer during MAD Dream camp in 2019.
 
 - I served as a Foundational Skills Volunteer (FSV) at Make A Difference [(MAD)](https://makeadiff.in/) Bangalore where I was teaching elementary school curriculum and essential life skills to 12 children between 6 and 14 years of age in several shelter homes to provide equitable outcomes.
-
-# Leadership
-
-- I was the placement coordinator for the computer science department and was incharge of logistics and university-companies relationships at the CUIC (Centre for University-Industry Collaboration), Anna University. Roles include organizing placement drives for various companies and coordinating with students attending placements and helping them to secure positions in top companies.
-
-- I was the workshop head for Computer Science department symposium - 'Prayatna', where I organized the 'Computer Graphics and Game Development' workshop, 'VR and AR' workshop and multiple coding contests. This yearly event is participate by multiple students from various colleges in India.
 
 # Links
 

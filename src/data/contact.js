@@ -9,16 +9,6 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 
 const data = [
   {
-    link: 'https://facebook.com/vijay.saravanaa',
-    label: 'Facebook',
-    icon: faFacebookF,
-  },
-  {
-    link: 'https://www.instagram.com/vijay.saravana/',
-    label: 'Instagram',
-    icon: faInstagram,
-  },
-  {
     link: 'https://www.linkedin.com/in/vijay-saravana-j',
     label: 'LinkedIn',
     icon: faLinkedinIn,
@@ -27,11 +17,6 @@ const data = [
     link: 'https://twitter.com/vijaysaravana',
     label: 'Twitter',
     icon: faTwitter,
-  },
-  {
-    link: 'mailto:jvijaysaravana@gatech.edu',
-    label: 'Email',
-    icon: faEnvelope,
   },
   {
     link: 'https://github.com/vijaysaravana',

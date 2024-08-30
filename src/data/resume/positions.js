@@ -1,8 +1,18 @@
 const positions = [
   {
-    company: 'Woven Planet Holdings, Toyota (Previously Lyft - Level 5)',
+    company: 'Woven by Toyota (Previously Lyft - Level 5)',
+    position: 'Software Engineer',
+    link: 'https://www.woven-planet.global',
+    daterange: 'May 2023 - Present',
+    points: [
+      'Optimizing distributed training of AD/ADAS ML models on the cloud.',
+      'Building the next-gen vehicle software validation platform for Toyota.',
+    ],
+  },
+  {
+    company: 'Woven by Toyota (Previously Lyft - Level 5)',
     position: 'Software Intern, ML Frameworks',
-    link: 'https://www.woven-panet.global',
+    link: 'https://www.woven-planet.global',
     daterange: 'May 2022 - Aug 2022',
     points: [
       'Designed the Distributed processing Engine (DPE) using Flyte Map tasks replacing the existing Apache Spark based solution. Achieved similar runtimes and much better GCP logging with 25% less overhead for workflows compared to spark transient cluster setup.',
