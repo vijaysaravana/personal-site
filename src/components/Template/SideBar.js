@@ -19,7 +19,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hey there! This is Vijay.
-        I am a grad student in Computer Science at <a href="https://gatech.edu/">Georgia Tech</a>. I completed my undergraduate degree from Anna University - MIT Campus in Computer Science. I am a systems enthusiast who enjoys building efficient, robust and scalable systems!
+        I am a systems enthusiast who enjoys building efficient, robust and scalable systems!
 
       </p>
       <ul className="actions">
