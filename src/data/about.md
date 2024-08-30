@@ -25,12 +25,3 @@ On top of giving the opportunity to work on state-of-the-art 5G modem tech with 
 
 - I served as a Foundational Skills Volunteer (FSV) at Make A Difference [(MAD)](https://makeadiff.in/) Bangalore where I was teaching elementary school curriculum and essential life skills to 12 children between 6 and 14 years of age in several shelter homes to provide equitable outcomes.
 
-# Links
-
-- [Professional Experience](https://drive.google.com/drive/u/0/folders/1kLaEXcsp6entmdiHJ8z_knbCDU9x8JgM) 
-- [Projects and Certificates](https://drive.google.com/drive/u/0/folders/10OTqwwoyjmBoM2uKsSNd9Fu5F3p2mWKN)
-- [Academic Transcripts](https://drive.google.com/drive/u/0/folders/1BWYo57oeWCb-I9cNO0ynyHCEgkg6WMQ8)
-- [Extracurriculars and Volunteering](https://drive.google.com/drive/u/0/folders/1xnNKQw8EsYmn15kvvzPLHWPjMvcPb8p_)
-- [Online Certifications](https://drive.google.com/drive/u/0/folders/13BqJQEwOVxn7eiUWcVCgH-bc-679Jlz_)
-- [Awards](https://drive.google.com/drive/u/0/folders/1Tuhpqrk_k_Y_C2ijWvOE-QUuJ0JoflEw)
-- [Resume](https://drive.google.com/file/d/14Q5BJUvj_ubqXYYtxRGqNfqbkG2hLiHV/view?usp=sharing)
