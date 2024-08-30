@@ -3,39 +3,24 @@
 
 const skills = [
   {
-    title: 'Javascript',
+    title: 'AWS',
     competency: 4,
-    category: ['Web Development', 'Languages'],
+    category: ['Web Development', 'Tools', 'Cloud'],
   },
   {
-    title: 'Node.JS',
-    competency: 4,
-    category: ['Web Development'],
-  },
-  {
-    title: 'Bash',
+    title: 'Amazon SQS',
     competency: 3,
-    category: ['Tools', 'Languages'],
+    category: ['Web Development', 'Tools', 'Cloud'],
   },
   {
-    title: 'Amazon Web Services',
+    title: 'Github Actions',
     competency: 4,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'Heroku',
-    competency: 3,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'MongoDB',
-    competency: 4,
-    category: ['Web Development', 'Databases'],
+    category: ['Tools', 'Cloud'],
   },
   {
     title: 'MySQL',
     competency: 4.5,
-    category: ['Web Development', 'Databases', 'Languages'],
+    category: ['Web Development', 'Databases'],
   },
   {
     title: 'Redis',
@@ -53,16 +38,6 @@ const skills = [
     category: ['Tools'],
   },
   {
-    title: 'Numpy',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'Jupyter',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
     title: 'HTML + CSS',
     competency: 4,
     category: ['Web Development', 'Languages'],
@@ -74,28 +49,28 @@ const skills = [
   },
   {
     title: 'C++',
-    competency: 4,
+    competency: 3,
     category: ['Languages'],
   },
   {
-    title: 'C',
+    title: 'Golang',
     competency: 4,
     category: ['Languages'],
   },
   {
     title: 'Java',
-    competency: 5,
+    competency: 4,
     category: ['Web Development', 'Languages'],
   },
   {
     title: 'Flyte',
     competency: 4,
-    category: ['Web Development', 'Framework'],
+    category: ['Web Development', 'Framework', 'Cloud'],
   },
   {
     title: 'Kubernetes',
     competency: 3,
-    category: ['Web Development', 'Framework'],
+    category: ['Web Development', 'Cloud'],
   },
   {
     title: 'Hibernate',
@@ -108,12 +83,7 @@ const skills = [
     category: ['Web Development', 'Framework'],
   },
   {
-    title: 'Spring Boot',
-    competency: 4,
-    category: ['Web Development', 'Framework'],
-  },
-  {
-    title: 'gRPC',
+    title: 'gRPC Protobuf',
     competency: 4,
     category: ['Framework'],
   },
@@ -123,14 +93,24 @@ const skills = [
     category: ['Web Development'],
   },
   {
-    title: 'Tensorflow',
-    competency: 3,
-    category: ['Framework'],
+    title: 'Helm',
+    competency: 2,
+    category: ['Cloud', 'Tools'],
   },
   {
-    title: 'Perforce',
-    competency: 5,
-    category: ['Tools'],
+    title: 'Agile',
+    competency: 2,
+    category: ['Practices'],
+  },
+  {
+    title: 'Kanban',
+    competency: 2,
+    category: ['Practices'],
+  },
+  {
+    title: 'Docker',
+    competency: 4,
+    category: ['Cloud', 'Tools'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
@@ -139,7 +119,6 @@ const skills = [
 const colors = [
   '#6968b3',
   '#37b1f5',
-  '#40494e',
   '#515dd4',
   '#e47272',
   '#cc7b94',
@@ -148,6 +127,7 @@ const colors = [
   '#d75858',
   '#747fff',
   '#64cb7b',
+  '#40494e',
 ];
 
 const categories = [
