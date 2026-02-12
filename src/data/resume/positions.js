@@ -1,12 +1,17 @@
 const positions = [
   {
     company: 'Woven by Toyota (Previously Lyft - Level 5)',
-    position: 'Software Engineer',
+    position: 'Software Engineer II, Arene Validation Platform',
     link: 'https://www.woven-planet.global',
-    daterange: 'May 2023 - Present',
+    daterange: 'Mar 2023 - Present',
     points: [
-      'Optimizing distributed training of AD/ADAS ML models on the cloud.',
-      'Building the next-gen vehicle software validation platform for Toyota.',
+      'Led development of Vertex Studio, a test management and execution platform for Gherkin tests on virtual vehicles. Drove the project from POC to production using Golang, PostgreSQL, Kubernetes within 3 months for Toyota adoption.',
+      'Designed a state machine for auto-updating task states and enhanced performance by 60% through pre-caching data from SQS queues, enabling support for thousands of concurrent requests.',
+      'Built the Distributed Processing Engine using Flyte Map tasks, replacing Apache Spark with similar runtimes, better logging, and 25% less overhead for ML workflows.',
+      'Implemented k8s informer in Go for distributed PyTorch training jobs on Kubernetes with Slack notifications. Provided a cheaper, faster local alternative to AWS Sagemaker.',
+      'Invented and filed 6 patents (1 published, 5 pending) covering vehicle software validation systems and autonomous vehicle safety improvements, assigned to Toyota.',
+      'Platform planning deployment to production RAV4 vehicles, marking the first Toyota consumer vehicles with Arene-powered features.',
+      'Built the framework for building dynamic virtual test rigs enabling parallel execution of tests on virtual vehicles across multiple fidelities, powering faster validation of vehicle software.',
     ],
   },
   {
